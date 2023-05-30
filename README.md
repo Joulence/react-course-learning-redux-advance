@@ -1,3 +1,5 @@
+This project is the part of the course "React - The Complete Guide" by Maximilian Schwarzmüller (https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+
 # React Redux Advance Learning Project
 
 This is the README file for the React Redux learning project focused on creating dynamic content and managing a cart. In this project, we will explore the functionality of fetching data from a database (Firebase), dynamically displaying content, and implementing cart management features including adding and removing items, as well as adjusting item quantities.
